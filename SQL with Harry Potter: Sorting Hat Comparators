@@ -1,3 +1,5 @@
+--Solution
+
 SELECT * FROM students
 WHERE ((quality1 = 'evil' and quality2 = 'cunning') 
 OR  (quality1 = 'brave' and quality2 != 'evil') 
