@@ -1,2 +1,2 @@
 # SQL
-All SQL Solutions from Codewers
+All SQL Solutions from Codewars
