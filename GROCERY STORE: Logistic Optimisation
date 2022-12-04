@@ -1,3 +1,5 @@
+--Solution
+
 SELECT COUNT(name) AS count_products_types, producer
 FROM products
 GROUP BY producer
